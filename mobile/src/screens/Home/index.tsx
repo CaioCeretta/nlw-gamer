@@ -43,8 +43,8 @@ export function Home() {
         />
 
         <Heading
-          title="Encontre o seu duo!"
-          subtitle='Selecione o game que deseja jogar!'>
+          title="Find your Duo!"
+          subtitle='Select the game that you wish to play!'>
         </Heading>
 
         <FlatList
